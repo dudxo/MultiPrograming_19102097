@@ -1,0 +1,15 @@
+package homework_week2;
+
+public class question_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("     *");
+		System.out.println("    ***");
+		System.out.println("   *****");
+		System.out.println("  *******");
+		System.out.println(" ********* ");
+		System.out.println("***********");
+	}
+
+}
