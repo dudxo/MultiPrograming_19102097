@@ -1,4 +1,4 @@
-package homework;
+package homework_week10;
 
 //public interface Countable {
 //	void count();

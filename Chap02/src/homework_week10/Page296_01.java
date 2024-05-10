@@ -1,4 +1,4 @@
-package homework;
+package homework_week10;
 
 public class Page296_01 {
 
